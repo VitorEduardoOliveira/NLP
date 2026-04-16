@@ -148,5 +148,5 @@ Sinta-se livre para usar, modificar e distribuir os projetos com os devidos cré
 ---
 
 <div align="center">
-  <sub>Feito com 🤍 e muito Python &nbsp;|&nbsp; NLP Lab</sub>
+  <sub>Feito com preguiça e muito Python &nbsp;|&nbsp; NLP Lab</sub>
 </div>
