@@ -21,8 +21,8 @@ Os projetos são desenvolvidos como notebooks no **Google Colab**, sem necessida
 
 | Versão | Descrição | Interface | Notebook |
 |--------|-----------|-----------|----------|
-| **v1 — Modelo Original** | TF-IDF + NLTK + Similaridade de Cossenos | ipywidgets | [`chatbot_v1.ipynb`](./01-chatbot-cossenos/chatbot_v1.ipynb) |
-| **v2 — Base CSV** | Sentence Transformers + base carregada via CSV | Gradio | [`chatbot_v2_csv.ipynb`](./01-chatbot-cossenos/chatbot_v2_csv.ipynb) |
+| **v1 — Modelo Original** | TF-IDF + NLTK + Similaridade de Cossenos | ipywidgets | [`chatbot_v1.ipynb`](./ChatBot_Array.ipynb) |
+| **v2 — Base CSV** | Sentence Transformers + base carregada via CSV | Gradio | [`chatbot_v2_csv.ipynb`](./ChatBotCSV.ipynb) |
 | **v3 — Base PDF** | Sentence Transformers + chunking de PDF (RAG simples) | Gradio | [`chatbot_v3_pdf.ipynb`](./01-chatbot-cossenos/chatbot_v3_pdf.ipynb) |
 
 **Tecnologias:** `scikit-learn` `nltk` `sentence-transformers` `gradio` `ipywidgets` `pymupdf`
